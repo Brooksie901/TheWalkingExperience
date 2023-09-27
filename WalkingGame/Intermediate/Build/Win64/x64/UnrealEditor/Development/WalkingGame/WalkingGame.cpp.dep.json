@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\danjb\\desktop\\thewalkingexperience\\walkinggame\\source\\walkinggame\\walkinggame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\danjb\\desktop\\thewalkingexperience\\walkinggame\\intermediate\\build\\win64\\x64\\walkinggameeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\danjb\\desktop\\thewalkingexperience\\walkinggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\walkinggame\\definitions.walkinggame.h",
+            "c:\\users\\danjb\\desktop\\thewalkingexperience\\walkinggame\\source\\walkinggame\\walkinggame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

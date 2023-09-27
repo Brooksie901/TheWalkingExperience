@@ -1,0 +1,2 @@
+.ue5.vcxproj filter=lfs diff=lfs merge=lfs -text
+ue5.vcxproj filter=lfs diff=lfs merge=lfs -text

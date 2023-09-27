@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/danjb/Desktop/TheWalkingExperience/WalkingGame/Content/WalkingGame/Maps/ToyBoxMap.umap",
+				"C:/Users/danjb/Desktop/TheWalkingExperience/WalkingGame/Content/WalkingGame/Character/Controls/IA_Move.uasset",
+				"C:/Users/danjb/Desktop/TheWalkingExperience/WalkingGame/Content/WalkingGame/Character/BP_WalkingCharacter.uasset",
+				"C:/Users/danjb/Desktop/TheWalkingExperience/WalkingGame/Content/WalkingGame/Modes/GM_WalkingGame.uasset",
+				"C:/Users/danjb/Desktop/TheWalkingExperience/WalkingGame/Content/WalkingGame/Character/Controls/IA_Interact.uasset",
+				"C:/Users/danjb/Desktop/TheWalkingExperience/WalkingGame/Content/WalkingGame/Character/Controls/IA_Jump.uasset",
+				"C:/Users/danjb/Desktop/TheWalkingExperience/WalkingGame/Content/WalkingGame/Character/Controls/IA_Look.uasset",
+				"C:/Users/danjb/Desktop/TheWalkingExperience/WalkingGame/Content/WalkingGame/Character/Controls/IMC_Character.uasset"
+			]
+		}
+	]
+}

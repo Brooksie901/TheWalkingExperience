@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WalkingGame",
+			"Path": "C:\\Users\\danjb\\Desktop\\TheWalkingExperience\\WalkingGame\\Source\\WalkingGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WalkingGameEditor",
+			"Path": "C:\\Users\\danjb\\Desktop\\TheWalkingExperience\\WalkingGame\\Source\\WalkingGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

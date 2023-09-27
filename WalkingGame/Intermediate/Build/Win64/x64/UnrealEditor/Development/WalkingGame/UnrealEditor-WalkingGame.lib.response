@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WalkingGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\danjb\Desktop\TheWalkingExperience\WalkingGame\Intermediate\Build\Win64\x64\WalkingGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\danjb\Desktop\TheWalkingExperience\WalkingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WalkingGame\WalkingGame.init.gen.cpp.obj"
+"C:\Users\danjb\Desktop\TheWalkingExperience\WalkingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WalkingGame\WalkingGameGameModeBase.gen.cpp.obj"
+"C:\Users\danjb\Desktop\TheWalkingExperience\WalkingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WalkingGame\WalkingGame.cpp.obj"
+"C:\Users\danjb\Desktop\TheWalkingExperience\WalkingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WalkingGame\WalkingGameGameModeBase.cpp.obj"
+"C:\Users\danjb\Desktop\TheWalkingExperience\WalkingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WalkingGame\Default.rc2.res"
+/OUT:"C:\Users\danjb\Desktop\TheWalkingExperience\WalkingGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\WalkingGame\UnrealEditor-WalkingGame.lib"

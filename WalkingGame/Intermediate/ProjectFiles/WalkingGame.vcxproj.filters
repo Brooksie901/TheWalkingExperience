@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\WalkingGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WalkingGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WalkingGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\WalkingGame">
+      <UniqueIdentifier>{3BBCB1A2-B541-3651-9C4A-BB4A52E522D7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WalkingGame\WalkingGame.Build.cs">
+      <Filter>Source\WalkingGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\WalkingGame\WalkingGame.cpp">
+      <Filter>Source\WalkingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WalkingGame\WalkingGame.h">
+      <Filter>Source\WalkingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WalkingGame\WalkingGameGameModeBase.cpp">
+      <Filter>Source\WalkingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WalkingGame\WalkingGameGameModeBase.h">
+      <Filter>Source\WalkingGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
